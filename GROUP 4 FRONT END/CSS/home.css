@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+height: 200vh;
+background-color: lightgreen;
+}
+
+.navigation-bar{
+    background-color: rgb(198, 157, 157);
+    height: 50px;
+   display: flex;
+   size: 1fr;
+    position:fixed;
+
+}
+
+.middle{
+    text-decoration: none;
+    text-align: center;
+}
+.middle a{
+padding: 20px;
+text-decoration: none;
+color: black;
+font-size: 16px;
+}
+.middle :hover{
+    color: bisque;
+    font-size: 17px;    
+    
+
+}
